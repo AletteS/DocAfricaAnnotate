@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "AletteS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79116117?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "AletteS",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-01-07T18:30:01.593Z",
-    "updated_at": "2026-01-07T18:30:01.593Z"
-  }
+    "updated_at": "2026-01-07T18:30:01.593Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "af7345da-2e57-43b2-89ac-e770dec95997": {
+      "content": [],
+      "created_at": "2026-01-07T18:30:01.612Z",
+      "created_by": "AletteS",
+      "title": "Documentary_Studies_Africa",
+      "updated_at": "2026-01-07T18:30:01.612Z",
+      "updated_by": "AletteS",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "af7345da-2e57-43b2-89ac-e770dec95997"
+  ]
 }
