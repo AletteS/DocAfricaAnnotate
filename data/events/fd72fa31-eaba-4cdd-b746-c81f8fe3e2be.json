@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "6985e2b8-4f4d-4479-b2f0-2e1b593fc779": {
+      "label": "AfricanMoot",
+      "is_offline": false,
+      "file_type": "video",
+      "file_url": "https://youtu.be/CC25nHFfAu0",
+      "duration": 5118
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Afridocs1",
+  "created_at": "2026-01-07T18:39:57.728Z",
+  "created_by": "AletteS",
+  "updated_at": "2026-01-07T18:39:57.728Z",
+  "updated_by": "AletteS"
+}
